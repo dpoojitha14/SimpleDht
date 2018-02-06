@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/poojithadharmavaram/AndroidStudioProjects/SimpleDht/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="cb066a229fa6112efafb40598de560c3231945ee">
+        <dex dex="/Users/poojithadharmavaram/AndroidStudioProjects/SimpleDht/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_7e29667b9eaf91da6f9c0bfe8c252e23e8417bbe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/poojithadharmavaram/AndroidStudioProjects/SimpleDht/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="d537e28a18d93695b358ab31ff215a6d6d5b8efb">
+        <dex dex="/Users/poojithadharmavaram/AndroidStudioProjects/SimpleDht/app/build/intermediates/pre-dexed/debug/instant-run_3cf27f933d1c34def7781828ca59c1bdcaf94287.jar" />
+    </item>
+
+</items>
